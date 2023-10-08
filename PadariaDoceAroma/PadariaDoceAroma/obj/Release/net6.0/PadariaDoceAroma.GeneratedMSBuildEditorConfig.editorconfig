@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PadariaDoceAroma
+build_property.RootNamespace = PadariaDoceAroma
+build_property.ProjectDir = D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Users/vini/Downloads/Padaria_Doce_Aroma-main/Padaria_Doce_Aroma-main/Padaria_Doce_Aroma-main/PadariaDoceAroma/PadariaDoceAroma/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vini/Downloads/Padaria_Doce_Aroma-main/Padaria_Doce_Aroma-main/Padaria_Doce_Aroma-main/PadariaDoceAroma/PadariaDoceAroma/Views/Item/Apagar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVxBcGFnYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vini/Downloads/Padaria_Doce_Aroma-main/Padaria_Doce_Aroma-main/Padaria_Doce_Aroma-main/PadariaDoceAroma/PadariaDoceAroma/Views/Item/Cadastrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVxDYWRhc3RyYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vini/Downloads/Padaria_Doce_Aroma-main/Padaria_Doce_Aroma-main/Padaria_Doce_Aroma-main/PadariaDoceAroma/PadariaDoceAroma/Views/Item/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVxFZGl0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vini/Downloads/Padaria_Doce_Aroma-main/Padaria_Doce_Aroma-main/Padaria_Doce_Aroma-main/PadariaDoceAroma/PadariaDoceAroma/Views/Item/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vini/Downloads/Padaria_Doce_Aroma-main/Padaria_Doce_Aroma-main/Padaria_Doce_Aroma-main/PadariaDoceAroma/PadariaDoceAroma/Views/Item/Pesquisar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVxQZXNxdWlzYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vini/Downloads/Padaria_Doce_Aroma-main/Padaria_Doce_Aroma-main/Padaria_Doce_Aroma-main/PadariaDoceAroma/PadariaDoceAroma/Views/Item/_Formulario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVxfRm9ybXVsYXJpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vini/Downloads/Padaria_Doce_Aroma-main/Padaria_Doce_Aroma-main/Padaria_Doce_Aroma-main/PadariaDoceAroma/PadariaDoceAroma/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vini/Downloads/Padaria_Doce_Aroma-main/Padaria_Doce_Aroma-main/Padaria_Doce_Aroma-main/PadariaDoceAroma/PadariaDoceAroma/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vini/Downloads/Padaria_Doce_Aroma-main/Padaria_Doce_Aroma-main/Padaria_Doce_Aroma-main/PadariaDoceAroma/PadariaDoceAroma/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vini/Downloads/Padaria_Doce_Aroma-main/Padaria_Doce_Aroma-main/Padaria_Doce_Aroma-main/PadariaDoceAroma/PadariaDoceAroma/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vini/Downloads/Padaria_Doce_Aroma-main/Padaria_Doce_Aroma-main/Padaria_Doce_Aroma-main/PadariaDoceAroma/PadariaDoceAroma/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-hrban12vf0

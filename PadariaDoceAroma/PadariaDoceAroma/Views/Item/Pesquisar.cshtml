@@ -1,0 +1,16 @@
+﻿@model List<Item>
+
+@{
+    ViewData["Title"] = "Listagem";
+}
+<!DOCTYPE html>
+<html lang="en">
+
+
+    @* Reaproveitamento da pagina INDEX mas com o diferencial que o model List<Item>
+        recebe a lista PERSONALIZADA dos itens FILTRADOS (PESQUISADOS) *@
+
+    <partial name="Index" id="index"></partial>
+
+
+</html>

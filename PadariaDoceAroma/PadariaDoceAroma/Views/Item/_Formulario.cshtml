@@ -1,0 +1,34 @@
+﻿@model Item
+
+<div>
+    <label asp-for="Nome">NOME:</label>
+    <br />
+    <input asp-for="Nome" type="text" size="50" maxlength="50" required autocomplete="off">
+</div>
+
+<div>
+    <label asp-for="Valor">VALOR UNITÁRIO:</label>
+    <br />
+    <input asp-for="Valor" type="text" size="50" maxlength="50" required autocomplete="off">
+</div>
+
+<div>
+    <label asp-for="Vegano">É VEGANO?</label>
+    <input asp-for="Vegano" />
+</div>
+
+<div>
+    <label asp-for="Categoria">CATEGORIA</label>
+    <br />
+    <select asp-for="Categoria" asp-items="@Html.GetEnumSelectList<TipoCategoria>()" class="form-select">
+        <option>Selecione</option>
+    </select>
+</div>
+
+<div>
+    <br />
+    <label asp-for="Descricao">DESCRIÇÃO:</label>
+    <div>
+        <textarea asp-for="Descricao" rows="8" cols="54" placeholder="Explique o que torna sua comida especial!" autocomplete="off" required></textarea>
+    </div>
+</div>

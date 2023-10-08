@@ -1,0 +1,32 @@
+﻿@model Item
+@{
+    ViewData["Title"] = "Cadastrar item";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastrar</title>
+    <link rel="stylesheet" href="~/css/registro.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/PadariaDoceAroma.styles.css" asp-append-version="true" />
+</head>
+<body>
+            <h5>registro de</h5>
+            <h5>sabores</h5>
+
+    <alert texto="@TempData["mensagem"]"></alert>
+    <div id="container">
+
+
+        <form asp-action="Cadastrar" id="formulario">
+            <partial name="_Formulario" id="formulario"></partial>
+            <a asp-action="Cadastrar"><button id="botao">Cadastrar</button></a>
+        </form>
+        <div id="foto">
+            <img src="https://images.tcdn.com.br/img/img_prod/795791/bolo_red_velvet_caminho_da_fazenda_947_3_4589c5a3634333222a3685928052ebc1.jpg" />
+        </div>
+    </div>
+</body>
+</html>

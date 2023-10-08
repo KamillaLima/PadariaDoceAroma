@@ -1,0 +1,78 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Croissant+One&family=Lobster&family=Prata&family=Satisfy&family=Yeseva+One&display=swap');
+
+
+body {
+    background-color: #F1EDE8;
+    color: #402620;
+}
+
+
+h1 {
+    margin-top:4rem;
+    margin-bottom:3rem;
+    margin-right:2rem;
+    font-size: 6rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Prata', serif;
+    color: #402620;
+    line-height: 4rem;
+    font-weight: 100;
+}
+
+
+.produto {
+    font-size: 1rem;
+    text-align: center;
+    font-family: 'Prata', serif;
+    background-color: #C4B3DD;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+main {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.botoes {
+    background-color: white;
+    border-radius: 0.6rem;
+    border-color: #402620;
+    border-width: 0.2rem;
+    color: #402620;
+    padding: 1rem;
+    font-size: 1.2rem;
+    cursor: pointer;
+    margin: 1rem;
+}
+
+
+#busca{
+    display:flex;
+    justify-content:space-between;
+    width:80%;
+}
+
+input {
+    background-color: #D7CAEA;
+    margin-bottom: 2.5rem;
+    padding: 0.5rem;
+    text-transform: uppercase;
+    border-radius: 0.4rem;
+    border-color: #402620;
+    border-width: 0.1rem;
+}
+
+
+label {
+    font-size: 1.4rem;
+    font-family: 'Prata', serif;
+    color: #402620;
+}

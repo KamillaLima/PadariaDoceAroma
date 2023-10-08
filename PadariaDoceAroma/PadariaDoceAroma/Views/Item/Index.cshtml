@@ -1,0 +1,87 @@
+﻿@model List<Item>
+
+@{
+    ViewData["Title"] = "Listagem";
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listagem</title>
+
+    <link rel="stylesheet" href="~/css/listagem.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/PadariaDoceAroma.styles.css" asp-append-version="true" />
+</head>
+
+<body>
+    <alert texto="@TempData["mensagem"]"></alert>          
+            <h1>Itens Cadastrados</h1>
+    @* PESQUISAR AQUI: *@
+    <div id="busca">
+        
+        <form asp-action="Pesquisar"  method="post">
+
+            <label >Pesquisar por nome: </label>
+            <input name="nomePesquisa" id="" size="50" maxlength="50" />
+
+            @* BOTAO PARA ACIONAR PESQUISA *@
+            <a asp-action="Pesquisar" asp-route-id="campoEditar" target="_blank">
+                <button type="submit" class="botoes">Pesquisar</button>
+            </a>
+
+
+        </form>
+
+        <form asp-action="Resetar" method="post"> 
+
+            @* RESETAR A PESQUISA *@
+            <a asp-action="Resetar" target="_blank">
+                <button type="submit" class="botoes">Resetar</button>
+            </a>
+        </form>
+    </div>
+    
+    <main>
+      
+        @foreach (var item in Model)
+        {
+            <div class="produto">
+                <h4>@item.Id - Nome: @item.Nome</h4>
+                <h4>Valor: R$@item.Valor</h4>
+                <a asp-action="Editar" asp-route-id="@item.Id" target="_blank">
+                    <button class="botoes">Editar</button>
+                </a>
+                <button onclick="itens.value = @item.Id" type="button" class="botoes" data-bs-toggle="modal"
+                        data-bs-target="#exampleModal">
+                    Excluir
+                </button>
+            </div>
+        }
+
+        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        O item deve ser excluído?
+                    </div>
+                    <div class="modal-footer">
+                        <form asp-action="Apagar">
+
+                            <input type="hidden" name="id" id="itens" />
+                            <button type="submit" class="btn btn-danger">Sim</button>
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Não</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+ 
+</body>
+
+</html>

@@ -1,0 +1,16 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Croissant+One&family=Lobster&family=Prata&family=Satisfy&family=Yeseva+One&display=swap');
+
+
+h3 {
+    color: #C4B3DD;
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    font-family: 'Abril Fatface';
+    padding-right:3rem;
+    padding-top:0.5rem;
+}

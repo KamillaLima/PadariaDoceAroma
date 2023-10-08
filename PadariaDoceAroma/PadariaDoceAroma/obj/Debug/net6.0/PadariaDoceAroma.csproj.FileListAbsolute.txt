@@ -1,0 +1,183 @@
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\appsettings.json
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.staticwebassets.runtime.json
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.exe
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.deps.json
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.runtimeconfig.json
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.dll
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.pdb
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.AssemblyInfoInputs.cache
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.AssemblyInfo.cs
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.RazorAssemblyInfo.cache
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.RazorAssemblyInfo.cs
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets\msbuild.PadariaDoceAroma.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets\msbuild.build.PadariaDoceAroma.props
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PadariaDoceAroma.props
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PadariaDoceAroma.props
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\scopedcss\bundle\PadariaDoceAroma.styles.css
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\scopedcss\projectbundle\PadariaDoceAroma.bundle.scp.css
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.dll
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\refint\PadariaDoceAroma.dll
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.pdb
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.genruntimeconfig.cache
+C:\Users\kamil\source\repos\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\ref\PadariaDoceAroma.dll
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\appsettings.json
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.staticwebassets.runtime.json
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.exe
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.deps.json
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.runtimeconfig.json
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.dll
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.pdb
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.csproj.AssemblyReference.cache
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.AssemblyInfoInputs.cache
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.AssemblyInfo.cs
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.csproj.CoreCompileInputs.cache
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.RazorAssemblyInfo.cache
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.RazorAssemblyInfo.cs
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets\msbuild.PadariaDoceAroma.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets\msbuild.build.PadariaDoceAroma.props
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PadariaDoceAroma.props
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PadariaDoceAroma.props
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\scopedcss\bundle\PadariaDoceAroma.styles.css
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\scopedcss\projectbundle\PadariaDoceAroma.bundle.scp.css
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.dll
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\refint\PadariaDoceAroma.dll
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.pdb
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.genruntimeconfig.cache
+C:\Users\kamilla.rodrigues\Desktop\Checkpoint fiap\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\ref\PadariaDoceAroma.dll
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\appsettings.json
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.staticwebassets.runtime.json
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.exe
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.deps.json
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.runtimeconfig.json
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.dll
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.pdb
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.csproj.AssemblyReference.cache
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.AssemblyInfo.cs
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.RazorAssemblyInfo.cache
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.RazorAssemblyInfo.cs
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets\msbuild.PadariaDoceAroma.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets\msbuild.build.PadariaDoceAroma.props
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PadariaDoceAroma.props
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PadariaDoceAroma.props
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\scopedcss\bundle\PadariaDoceAroma.styles.css
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\scopedcss\projectbundle\PadariaDoceAroma.bundle.scp.css
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.dll
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\refint\PadariaDoceAroma.dll
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.pdb
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.genruntimeconfig.cache
+C:\Users\logonrmlocal\Desktop\Projeto\Padaria_Doce_Aroma\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\ref\PadariaDoceAroma.dll
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\appsettings.json
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.staticwebassets.runtime.json
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.exe
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.deps.json
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.runtimeconfig.json
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.dll
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.pdb
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.csproj.AssemblyReference.cache
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.AssemblyInfoInputs.cache
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.AssemblyInfo.cs
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.csproj.CoreCompileInputs.cache
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.RazorAssemblyInfo.cache
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.RazorAssemblyInfo.cs
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets\msbuild.PadariaDoceAroma.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets\msbuild.build.PadariaDoceAroma.props
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PadariaDoceAroma.props
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PadariaDoceAroma.props
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\scopedcss\bundle\PadariaDoceAroma.styles.css
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\scopedcss\projectbundle\PadariaDoceAroma.bundle.scp.css
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.dll
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\refint\PadariaDoceAroma.dll
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.pdb
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.genruntimeconfig.cache
+C:\Users\kamilla.rodrigues\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\ref\PadariaDoceAroma.dll
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\appsettings.json
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.staticwebassets.runtime.json
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.exe
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.deps.json
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.runtimeconfig.json
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.dll
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.pdb
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.AssemblyInfoInputs.cache
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.AssemblyInfo.cs
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.csproj.CoreCompileInputs.cache
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.RazorAssemblyInfo.cache
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.RazorAssemblyInfo.cs
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets\msbuild.PadariaDoceAroma.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets\msbuild.build.PadariaDoceAroma.props
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PadariaDoceAroma.props
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PadariaDoceAroma.props
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\scopedcss\bundle\PadariaDoceAroma.styles.css
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\scopedcss\projectbundle\PadariaDoceAroma.bundle.scp.css
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.dll
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\refint\PadariaDoceAroma.dll
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.pdb
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.genruntimeconfig.cache
+D:\Users\vini\Downloads\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\Padaria_Doce_Aroma-main\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\ref\PadariaDoceAroma.dll
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\appsettings.json
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.staticwebassets.runtime.json
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.exe
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.deps.json
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.runtimeconfig.json
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.dll
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\bin\Debug\net6.0\PadariaDoceAroma.pdb
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.AssemblyInfoInputs.cache
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.AssemblyInfo.cs
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.RazorAssemblyInfo.cache
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.RazorAssemblyInfo.cs
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets\msbuild.PadariaDoceAroma.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets\msbuild.build.PadariaDoceAroma.props
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PadariaDoceAroma.props
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PadariaDoceAroma.props
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\scopedcss\bundle\PadariaDoceAroma.styles.css
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\scopedcss\projectbundle\PadariaDoceAroma.bundle.scp.css
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.dll
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\refint\PadariaDoceAroma.dll
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.pdb
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\PadariaDoceAroma.genruntimeconfig.cache
+C:\Users\kamil\Downloads\PadariaDoceAroma_7-10\PadariaDoceAroma\PadariaDoceAroma\obj\Debug\net6.0\ref\PadariaDoceAroma.dll
