@@ -16,17 +16,6 @@ namespace PadariaDoceAroma.Controllers
 
         public IActionResult Index()
         {
-            Item meuItem = new Item
-            {
-                Id = 1, // Defina o valor do Id conforme necessário
-                Nome = "Pão de Queijo", // Defina o nome do item
-                Valor = 3.99, // Defina o valor do item
-                Vegano = false, // Defina se o item é vegano ou não
-                Categoria = TipoCategoria.Salgado, // Defina a categoria do item
-                Descricao = "Delicioso pão de queijo quentinho." // Descrição do item
-            };
-
-            _listaItens.Add(meuItem);
             return View(_listaItens);
         }
 
